@@ -1,10 +1,9 @@
 ## MongoDB
 
-![squareops_avatar]
+![1_ZA5fmcFjt25p0nBxKgULtA](https://github.com/user-attachments/assets/6737c691-81d9-42c2-ab17-e08ee1b0636d)
 
-[squareops_avatar]: https://squareops.com/wp-content/uploads/2022/12/squareops-logo.png
 
-### [SquareOps Technologies](https://squareops.com/) Your DevOps Partner for Accelerating cloud journey.
+##
 <br>
 This module is for deploying a highly available MongoDB cluster on Kubernetes using Helm charts. This module provides flexible configuration options to customize the MongoDB deployment such as setting the volume size, architecture, replica count, and more. It also includes options to enable MongoDB backups and restores, and to deploy MongoDB exporters for getting metrics in Grafana. Additionally, this module provides options to create a new namespace, and to configure recovery windows for AWS Secrets Manager, Azure key vault & GCP secrets manager. With this module, users can easily deploy a highly available MongoDB cluster on AWS EKS, Azure AKS & GCP GKE Kubernetes clusters with the flexibility to customize their configurations according to their needs.
 
@@ -201,39 +200,8 @@ No modules.
 | <a name="output_mongodb_endpoints"></a> [mongodb\_endpoints](#output\_mongodb\_endpoints) | MongoDB endpoints in the Kubernetes cluster. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
-## Contribution & Issue Reporting
 
-To report an issue with a project:
 
-  1. Check the repository's [issue tracker](https://github.com/squareops/terraform-kubernetes-mongodb/issues) on GitHub
-  2. Search to see if the issue has already been reported
-  3. If you can't find an answer to your question in the documentation or issue tracker, you can ask a question by creating a new issue. Be sure to provide enough context and details so others can understand your problem.
-
-## License
-
-Apache License, Version 2.0, January 2004 (http://www.apache.org/licenses/).
-
-## Support Us
-
-To support a GitHub project by liking it, you can follow these steps:
-
-  1. Visit the repository: Navigate to the [GitHub repository](https://github.com/squareops/terraform-kubernetes-mongodb).
-
-  2. Click the "Star" button: On the repository page, you'll see a "Star" button in the upper right corner. Clicking on it will star the repository, indicating your support for the project.
-
-  3. Optionally, you can also leave a comment on the repository or open an issue to give feedback or suggest changes.
-
-Starring a repository on GitHub is a simple way to show your support and appreciation for the project. It also helps to increase the visibility of the project and make it more discoverable to others.
-
-## Who we are
-
-We believe that the key to success in the digital age is the ability to deliver value quickly and reliably. That’s why we offer a comprehensive range of DevOps & Cloud services designed to help your organization optimize its systems & Processes for speed and agility.
-
-  1. We are an AWS Advanced consulting partner which reflects our deep expertise in AWS Cloud and helping 100+ clients over the last 5 years.
-  2. Expertise in Kubernetes and overall container solution helps companies expedite their journey by 10X.
-  3. Infrastructure Automation is a key component to the success of our Clients and our Expertise helps deliver the same in the shortest time.
-  4. DevSecOps as a service to implement security within the overall DevOps process and helping companies deploy securely and at speed.
-  5. Platform engineering which supports scalable,Cost efficient infrastructure that supports rapid development, testing, and deployment.
   6. 24*7 SRE service to help you Monitor the state of your infrastructure and eradicate any issue within the SLA.
 
 We provide [support](https://squareops.com/contact-us/) on all of our projects, no matter how small or large they may be.
