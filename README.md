@@ -201,9 +201,3 @@ No modules.
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
 
-
-  6. 24*7 SRE service to help you Monitor the state of your infrastructure and eradicate any issue within the SLA.
-
-We provide [support](https://squareops.com/contact-us/) on all of our projects, no matter how small or large they may be.
-
-To find more information about our company, visit [squareops.com](https://squareops.com/), follow us on [Linkedin](https://www.linkedin.com/company/squareops-technologies-pvt-ltd/), or fill out a [job application](https://squareops.com/careers/). If you have any questions or would like assistance with your cloud strategy and implementation, please don't hesitate to [contact us](https://squareops.com/contact-us/).
